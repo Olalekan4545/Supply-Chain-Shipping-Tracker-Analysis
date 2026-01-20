@@ -46,20 +46,20 @@ The dataset includes supply chain information such as:
 - Microsoft Excel (data preparation)
   
 ## File Included
-powerbi-supply-chain-dashboard/[`Supply Chain Dashboard.png`](Supply Chain Dashboard.png)
-├── data/
-│   └── supply_chain_data.xlsx   (or csv)
+powerbi-supply-chain-dashboard/ 
+├── data/[`supply_chain_data.xlsx`](supply_chain_data.xlsx)
+│   └── supply_chain_data
 │
-├── dashboard/
+├── dashboard/[`Supply-Chain.pbix`](Supply-Chain.pbix)
 │   └── supply_chain_dashboard.pbix
 │
-├── images/
+├── images/[`Supply_Chain_Dashboard.png`](Supply_Chain_Dashboard.png) [`Shipping_Cost_by_Transportation.png`](Shipping_Cost_by_Transportation.png) 
 │   └── supply_chain_dashboard.png
 │
 └── README.md
 
 ## Dashboard Preview
-![Supply Chain Dashboard](images/supply_chain_dashboard.png)
+![Supply Chain Dashboard](images/supply_chain_dashboard.png) 
 
 ## How to Use
 1. Download the .pbix file from the dashboard folder
