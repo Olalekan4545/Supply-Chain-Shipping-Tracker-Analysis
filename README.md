@@ -41,6 +41,15 @@ The dataset includes supply chain information such as:
 - Certain transportation modes show higher defect rates depending on product type
 - Carrier performance varies in terms of cost efficiency
 
+## Recommendations
+
+- Investigate and reduce defect rates for high-risk transportation modes.
+- Negotiate better shipping rates and choose cost-effective carriers.
+- Restock low inventory SKUs and set minimum reorder levels.
+- Focus on high revenue products for marketing and stock planning.
+- Replace or improve low-performing carriers to reduce cost and improve delivery time.
+- Standardize pricing to avoid inconsistencies and errors.
+
 ## Tools Used
 - Power BI
 - Microsoft Excel (data preparation)
