@@ -46,26 +46,46 @@ The dataset includes supply chain information such as:
 - Microsoft Excel (data preparation)
   
 ## File Included
-powerbi-supply-chain-dashboard/ 
-├── data/[`supply_chain_data.xlsx`](supply_chain_data.xlsx)
-│   └── supply_chain_data
-│
-├── dashboard/[`Supply-Chain.pbix`](Supply-Chain.pbix)
-│   └── supply_chain_dashboard.pbix
-│
-├── images/[`Supply_Chain_Dashboard.png`](Supply_Chain_Dashboard.png) [`Shipping_Cost_by_Transportation.png`](Shipping_Cost_by_Transportation.png) 
-│   └── supply_chain_dashboard.png
-│
-└── README.md
+powerbi-supply-chain-dashboard.png / [`Supply_Chain_Dashboard.png`](Supply_Chain_Dashboard.png) 
 
-## Dashboard Preview
-![Supply Chain Dashboard](images/supply_chain_dashboard.png) 
+
+├──  supply_chain_data.xlsx
+
+│        └── data/[`supply_chain_data.xlsx`](supply_chain_data.xlsx) 
+
+│ 
+
+├── supply_chain_dashboard.pbix
+
+
+│   └── dashboard/[`Supply-Chain.pbix`](Supply-Chain.pbix)
+
+│
+
+
+├── images.png
+
+
+│   └── Images/[`Shipping_Cost_by_Transportation.png`](Shipping_Cost_by_Transportation.png) / [`Revenue_Generated_by_Product.png`](Revenue_Generated_by_Product.png) / [`Shipping_Cost_by_carrier.png`](Shipping_Cost_by_carrier.png) / [`Stock_Level_by_SKU.png`](Stock_Level_by_SKU.png) / [`Defect_Rate_by_Transportation_and_Product_Type.png`](Defect_Rate_by_Transportation_and_Product_Type.png)
+
+│
+
+├── Insight.md
+
+│     └── Insights/ [`Insights.md`](Insights.md) 
+
+
+└── README.md / [`README.md`](README.md) 
+
+
+
 
 ## How to Use
-1. Download the .pbix file from the dashboard folder
-2. Open with Power BI Desktop
-3. Use slicers to explore insights across different dimensions
+1. Download the .pbix file from the dashboard folder [`Supply-Chain.pbix`](Supply-Chain.pbix)
+2. Open with Power BI Desktop [Power BI Desktop](https://powerbi.microsoft.com/).
+3.  Use slicers to explore insights across different dimensions
 
 ## Author
 Ayomiposi Olalekan
+
 
