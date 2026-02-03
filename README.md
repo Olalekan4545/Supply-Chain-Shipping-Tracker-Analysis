@@ -100,7 +100,7 @@ Afolakemi Olalekan
   <tbody>
     <tr>
 <td>📧</td>
-      <td><a href="mailtoAfolakemiayomiposi@gmail.com">Afolakemiayomiposi@gmail.com</a></td>
+      <td><a href="mailto:Afolakemiayomiposi@gmail.com">Click here to send me an email</a></td>
     </tr>
     <tr>
  <td>🌐</td>
